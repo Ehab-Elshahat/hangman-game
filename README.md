@@ -1,1 +1,3 @@
 # hangman-game
+
+## note Responsive
